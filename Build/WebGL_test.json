@@ -1,6 +1,6 @@
 {
 "companyName": "DefaultCompany",
-"productName": "TestProject",
+"productName": "ModelingCraft",
 "productVersion": "0.1",
 "dataUrl": "WebGL_test.data.unityweb",
 "wasmCodeUrl": "WebGL_test.wasm.code.unityweb",
